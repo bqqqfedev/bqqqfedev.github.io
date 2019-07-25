@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/mobile/css/main.0d58343c.chunk.css",
+    "main.js": "/static/mobile/js/main.4106e8bb.chunk.js",
+    "main.js.map": "/static/mobile/js/main.4106e8bb.chunk.js.map",
+    "runtime~main.js": "/static/mobile/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/mobile/js/runtime~main.a8a9905a.js.map",
+    "static/mobile/css/2.3ae91ada.chunk.css": "/static/mobile/css/2.3ae91ada.chunk.css",
+    "static/mobile/js/2.40bd3f50.chunk.js": "/static/mobile/js/2.40bd3f50.chunk.js",
+    "static/mobile/js/2.40bd3f50.chunk.js.map": "/static/mobile/js/2.40bd3f50.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.5715a7e00344dba8cc23b9b5051795b5.js": "/precache-manifest.5715a7e00344dba8cc23b9b5051795b5.js",
+    "service-worker.js": "/service-worker.js",
+    "static/mobile/css/2.3ae91ada.chunk.css.map": "/static/mobile/css/2.3ae91ada.chunk.css.map",
+    "static/mobile/css/main.0d58343c.chunk.css.map": "/static/mobile/css/main.0d58343c.chunk.css.map",
+    "static/mobile/media/multiplanet.less": "/static/mobile/media/hc-success.5caeb818.png"
+  }
+}
